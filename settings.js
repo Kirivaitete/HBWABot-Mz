@@ -30,10 +30,10 @@ global.packname = "Sticker By"
 global.author = "Bawihpuia"
 
 //BUTTON INPUT 
-global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel"
+global.buttonyt = "INSTAGRAM"
+global.buttonyturl = "https://www.instagram.com/nightcore_mizo?igsh=Mmw2YjQ4YW1jenoz"
 global.buttonig = "Follow Us:)"
-global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
+global.buttonigurl = "https://www.instagram.com/nightcore_mizo?igsh=Mmw2YjQ4YW1jenoz"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
