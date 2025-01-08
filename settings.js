@@ -19,17 +19,17 @@ global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russi
 
 
 //info
-global.owner = ['919366105939'] // I phone number in thlak rawh
-global.ownernumber = '919366105939' // I phone number in thlak rawh
-global.ownername = "Ghibli"// I hming dah tel bawk la
-global.location = "India, Mizoram, lawngtlai" // I awmna hmun daha
-global.botname = "Ghibli" // I bot hming tur dah la
+global.owner = ['919233092990'] // I phone number in thlak rawh
+global.ownernumber = '919233092990' // I phone number in thlak rawh
+global.ownername = "Bawihpuia"// I hming dah tel bawk la
+global.location = "India, Mizoram, lunglei" // I awmna hmun daha
+global.botname = "Bawipuia" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "919366105939@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "919233092990@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["919366105939@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = [''] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.ownerNumber = ["919233092990@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.prefixc = ['-'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
